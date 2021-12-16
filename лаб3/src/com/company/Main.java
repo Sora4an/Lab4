@@ -1,3 +1,5 @@
+//Упр.2 
+//Пользователь вводить с клавиатуры строчку, являющуюся паролем...
 package com.company;
 
 import java.util.Scanner;
